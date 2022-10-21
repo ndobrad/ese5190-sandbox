@@ -1,7 +1,7 @@
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2B
 
     Nikola Obradovic
-    Link to setup guide: [here](https://github.com/ndobrad/ese5190-tools/blob/main/setup/qtpy_rp2040_setup.md)
+    Link to setup guide: https://github.com/ndobrad/ese5190-tools/blob/main/setup/qtpy_rp2040_setup.md
 
 
 # Lab 2B
